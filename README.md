@@ -1,0 +1,1 @@
+# LaTeX Python generator collection
