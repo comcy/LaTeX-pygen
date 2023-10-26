@@ -4,6 +4,8 @@ from jinja2 import Template
 latex_template = r"""
 \documentclass{article}
 \begin{document}
+
+
 \section*{My Document}
 
 Hello, {{ name }}!
